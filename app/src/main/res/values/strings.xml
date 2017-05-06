@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cash Map</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_new_receipt">AddNewReceipt</string>
+    <string name="title_activity_view_receipt">ViewReceipt</string>
+    <string name="title_activity_edit_receipt">EditReceipt</string>
+</resources>
